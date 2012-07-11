@@ -1,0 +1,5 @@
+This Makefile requires devkitXENON/Xenon Toolchain (http://free60.org/Xenon_Toolchain). It is based on a devkitARM template.
+
+tuxuser <webmaster@libxenon.org>
+July 11, 2012
+
